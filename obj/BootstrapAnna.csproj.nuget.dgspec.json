@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anna\\source\\repos\\BootstrapAnna\\BootstrapAnna\\BootstrapAnna.csproj": {}
+    "C:\\Users\\Anna\\source\\repos\\Skandinavien\\BootstrapAnna\\BootstrapAnna.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anna\\source\\repos\\BootstrapAnna\\BootstrapAnna\\BootstrapAnna.csproj": {
+    "C:\\Users\\Anna\\source\\repos\\Skandinavien\\BootstrapAnna\\BootstrapAnna.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anna\\source\\repos\\BootstrapAnna\\BootstrapAnna\\BootstrapAnna.csproj",
+        "projectUniqueName": "C:\\Users\\Anna\\source\\repos\\Skandinavien\\BootstrapAnna\\BootstrapAnna.csproj",
         "projectName": "BootstrapAnna",
-        "projectPath": "C:\\Users\\Anna\\source\\repos\\BootstrapAnna\\BootstrapAnna\\BootstrapAnna.csproj",
+        "projectPath": "C:\\Users\\Anna\\source\\repos\\Skandinavien\\BootstrapAnna\\BootstrapAnna.csproj",
         "packagesPath": "C:\\Users\\Anna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anna\\source\\repos\\BootstrapAnna\\BootstrapAnna\\obj\\",
+        "outputPath": "C:\\Users\\Anna\\source\\repos\\Skandinavien\\BootstrapAnna\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.410\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,13 @@
+C:\Users\Anna\source\repos\Skandinavien\BootstrapAnna\bin\Debug\netcoreapp3.1\BootstrapAnna.exe
+C:\Users\Anna\source\repos\Skandinavien\BootstrapAnna\bin\Debug\netcoreapp3.1\BootstrapAnna.deps.json
+C:\Users\Anna\source\repos\Skandinavien\BootstrapAnna\bin\Debug\netcoreapp3.1\BootstrapAnna.runtimeconfig.json
+C:\Users\Anna\source\repos\Skandinavien\BootstrapAnna\bin\Debug\netcoreapp3.1\BootstrapAnna.runtimeconfig.dev.json
+C:\Users\Anna\source\repos\Skandinavien\BootstrapAnna\bin\Debug\netcoreapp3.1\BootstrapAnna.dll
+C:\Users\Anna\source\repos\Skandinavien\BootstrapAnna\bin\Debug\netcoreapp3.1\BootstrapAnna.pdb
+C:\Users\Anna\source\repos\Skandinavien\BootstrapAnna\obj\Debug\netcoreapp3.1\BootstrapAnna.csprojAssemblyReference.cache
+C:\Users\Anna\source\repos\Skandinavien\BootstrapAnna\obj\Debug\netcoreapp3.1\BootstrapAnna.AssemblyInfoInputs.cache
+C:\Users\Anna\source\repos\Skandinavien\BootstrapAnna\obj\Debug\netcoreapp3.1\BootstrapAnna.AssemblyInfo.cs
+C:\Users\Anna\source\repos\Skandinavien\BootstrapAnna\obj\Debug\netcoreapp3.1\BootstrapAnna.csproj.CoreCompileInputs.cache
+C:\Users\Anna\source\repos\Skandinavien\BootstrapAnna\obj\Debug\netcoreapp3.1\BootstrapAnna.dll
+C:\Users\Anna\source\repos\Skandinavien\BootstrapAnna\obj\Debug\netcoreapp3.1\BootstrapAnna.pdb
+C:\Users\Anna\source\repos\Skandinavien\BootstrapAnna\obj\Debug\netcoreapp3.1\BootstrapAnna.genruntimeconfig.cache
